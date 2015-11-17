@@ -1,0 +1,1 @@
+Electrophysiology experiment and control toolbox for Matlab.  Integrates with Tucker-Davis Technologies (www.tdt.com) software and real-time processors.
